@@ -63,7 +63,7 @@ docker compose up -d --build
 ```bash
 docker compose down        # остановить, данные сохранятся
 docker compose down -v     # остановить и удалить данные
-
+```
 
 ## Примеры запросов
  
